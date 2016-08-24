@@ -1,0 +1,12 @@
+{
+ "plugins": [
+  { 
+    "name": "Pull Request",
+    "description": "Shows latest pull requests for a given repository",
+    "author": "Leonardo Eloy",
+    "license": "MIT",
+    "git": "https://github.azc.ext.hp.com/eloy/mutuca-pull-request"
+  }
+ ],
+ "version": "1.0.0"
+}
