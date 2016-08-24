@@ -6,7 +6,7 @@
     "author": "Leonardo Eloy",
     "license": "MIT",
     "version": "1.0.0",
-    "git": "https://github.com/mutuca/mutuca-pull-request"
+    "repository": "https://github.com/mutuca/mutuca-pull-request"
   }
  ],
  "version": "1.0.0"
