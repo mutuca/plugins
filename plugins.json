@@ -1,7 +1,8 @@
 {
  "plugins": [
   { 
-    "name": "Pull Request",
+    "name": "mutuca-pull-request",
+    "displayName": "Pull Request",
     "description": "Shows latest pull requests for a given repository",
     "author": "Leonardo Eloy",
     "license": "MIT",
