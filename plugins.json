@@ -6,7 +6,7 @@
     "description": "Shows latest pull requests for a given repository",
     "author": "Leonardo Eloy",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository": "https://github.com/mutuca/mutuca-pull-request"
   }
  ],
