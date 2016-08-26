@@ -3,7 +3,7 @@
   { 
     "name": "mutuca-pull-request",
     "displayName": "Pull Request",
-    "description": "Shows latest pull requests for a given repository",
+    "description": "Shows latest pull requests for a given repository.",
     "author": "Leonardo Eloy",
     "license": "MIT",
     "version": "1.0.4",
